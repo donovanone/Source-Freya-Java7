@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;Datapack_core&apos;&#x0D;&#x0A;- Original project: &apos;Datapack_core&apos;&#x0D;&#x0A;- Original element: &apos;com.l2jserver.gameserver.model.entity.PcPoint.java&apos;" description="Delete element" element1="/java&lt;com.l2jserver.gameserver.model.entity{PcPoint.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1424370053495" subPackages="false" version="1.0"/>
-</session>
