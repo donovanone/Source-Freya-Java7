@@ -1,0 +1,9 @@
+[*] http://www.adminsprol2.com/forum
+
+
+[*] 3 Eventos desactivados porq necesitan edicion del cliente
+
+[*] Para configuracion del horario del evento consultar EventShedule.txt
+[*] Para configuraciones globales y activar/desactivar eventos consultar Settings.xml
+[*] Para Configuracion personal de cada Evento editar los xml correspondiente a cada uno
+[*]

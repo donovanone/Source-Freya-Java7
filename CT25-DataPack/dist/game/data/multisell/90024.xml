@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2016 by Caio for L2Ghoul -->
+
+<list maintainEnchantment="true">
+
+  <!-- Vesper Breastplate -->
+  <item id="1">
+    <ingredient id="23002" count="30"/>
+    <production id="13432" count="1"/>
+  </item>
+
+  <!-- Vesper Gaiters -->
+  <item id="2">
+    <ingredient id="23002" count="25"/>
+    <production id="13438" count="1"/>
+  </item>
+
+  <!-- Vesper Helmet -->
+  <item id="3">
+    <ingredient id="23002" count="20"/>
+    <production id="13137" count="1"/>
+  </item>
+
+  <!-- Vesper Gauntlet -->
+  <item id="4">
+    <ingredient id="23002" count="20"/>
+    <production id="13439" count="1"/>
+  </item>
+
+  <!-- Vesper Boots -->
+  <item id="5">
+    <ingredient id="23002" count="20"/>
+    <production id="13440" count="1"/>
+  </item>
+
+  <!-- Vesper Shield -->
+  <item id="6">
+    <ingredient id="23002" count="10"/>
+    <production id="13471" count="1"/>
+  </item>
+
+  <!-- Vesper Leather Breastplate -->
+  <item id="7">
+    <ingredient id="23002" count="30"/>
+    <production id="13433" count="1"/>
+  </item>
+
+  <!-- Vesper Leather Leggings -->
+  <item id="8">
+    <ingredient id="23002" count="25"/>
+    <production id="13441" count="1"/>
+  </item>
+
+  <!-- Vesper Leather Gloves -->
+  <item id="9">
+    <ingredient id="23002" count="20"/>
+    <production id="13442" count="1"/>
+  </item>
+
+  <!-- Vesper Leather Helmet -->
+  <item id="10">
+    <ingredient id="23002" count="20"/>
+    <production id="13138" count="1"/>
+  </item>
+
+  <!-- Vesper Leather Boots -->
+  <item id="11">
+    <ingredient id="23002" count="20"/>
+    <production id="13443" count="1"/>
+  </item>
+
+  <!-- Vesper Tunic -->
+  <item id="12">
+    <ingredient id="23002" count="30"/>
+    <production id="13434" count="1"/>
+  </item>
+
+  <!-- Vesper Stockings -->
+  <item id="13">
+    <ingredient id="23002" count="25"/>
+    <production id="13444" count="1"/>
+  </item>
+
+  <!-- Vesper Shoes -->
+  <item id="14">
+    <ingredient id="23002" count="20"/>
+    <production id="13446" count="1"/>
+  </item>
+
+  <!-- Vesper Gloves -->
+  <item id="15">
+    <ingredient id="23002" count="20"/>
+    <production id="13445" count="1"/>
+  </item>
+
+
+  <!-- Vesper Circlet -->
+  <item id="17">
+    <ingredient id="23002" count="20"/>
+    <production id="13139" count="1"/>
+  </item>
+
+  <!-- Vesper Sigil -->
+  <item id="16">
+    <ingredient id="23002" count="10"/>
+    <production id="12813" count="1"/>
+  </item>
+
+
+</list>

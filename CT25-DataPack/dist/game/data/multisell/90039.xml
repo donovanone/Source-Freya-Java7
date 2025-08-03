@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list maintainEnchantment="true">
+
+   <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="30">
+    <ingredient id="6673" count="2"/>
+    <production id="9455" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="30">
+    <ingredient id="6673" count="2"/>
+    <production id="9456" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="30">
+    <ingredient id="6673" count="2"/>
+    <production id="9457" count="1"/>
+  </item>
+
+
+  <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="30">
+    <ingredient id="6673" count="3"/>
+    <production id="15724" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="30">
+    <ingredient id="6673" count="3"/>
+    <production id="15725" count="1"/>
+  </item>
+
+  <!-- Dynasty Breast Plate - Weapon Master -->
+  <item id="30">
+    <ingredient id="6673" count="3"/>
+    <production id="15723" count="1"/>
+  </item>
+
+
+
+
+</list>

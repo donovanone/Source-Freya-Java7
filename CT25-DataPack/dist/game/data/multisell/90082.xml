@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+
+
+<list maintainEnchantment="false">
+
+ 
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="2200"/>
+    <production id="8594" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="5280"/>
+    <production id="8595" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="15400"/>
+    <production id="8596" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="30800"/>
+    <production id="8597" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="52800"/>
+    <production id="8598" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade S) -->
+  <item id="20">
+    <ingredient id="57" count="100000"/>
+    <production id="8599" count="1"/>
+  </item>
+
+  
+</list>

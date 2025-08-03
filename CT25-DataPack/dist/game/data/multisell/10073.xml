@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Crystal Enchante -->
+<!-- © 2016 by Caio -->
+
+<list maintainEnchantment="true">
+
+<!-- Crystal wepon-->
+  <item id="1">
+    <ingredient id="23002" count="10"/>
+    <production id="961" count="1"/>
+  </item>
+
+  <!-- Crystal Armos-->
+  <item id="2">
+    <ingredient id="23002" count="7"/>
+    <production id="962" count="1"/>
+  </item>
+
+  
+</list>

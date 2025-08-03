@@ -1,0 +1,82 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Pets -->
+<!-- Created with Lineage II Champion - Multisell Manager -->
+<!-- © 2016 by Caio for L2Ghoul-->
+
+<list maintainEnchantment="true">
+
+  <!-- Jet Bike 7 dias -->
+  <item id="1">
+       <ingredient id="23002" count="10"/>
+    <production id="16098" count="1"/>
+  </item>
+
+  <!-- Jet Bike 30 dias -->
+  <item id="2">
+        <ingredient id="23002" count="10"/>
+    <production id="16099" count="1"/>
+  </item>
+
+  <!-- cavalo 7 dias -->
+  <item id="3">
+        <ingredient id="23002" count="10"/>
+    <production id="16100" count="1"/>
+  </item>
+
+  <!-- cavalo 30 dias -->
+  <item id="4">
+        <ingredient id="23002" count="10"/>
+    <production id="16103" count="1"/>
+  </item>
+
+  <!-- Lion 7 dias -->
+  <item id="5">
+        <ingredient id="23002" count="10"/>
+    <production id="16104" count="1"/>
+  </item>
+
+  <!-- Lion 30 dias -->
+  <item id="6">
+        <ingredient id="23002" count="10"/>
+    <production id="13498" count="1"/>
+  </item>
+
+  <!-- Steam Beatle 7 dias -->
+  <item id="7"> 
+        <ingredient id="23002" count="10"/>
+    <production id="13501" count="1"/>
+  </item>
+
+  <!-- Steam Beatle 30 dias -->
+  <item id="8">
+        <ingredient id="23002" count="10"/>
+    <production id="13502" count="1"/>
+  </item>
+
+  <!-- Steam Beatle 30 dias -->
+  <item id="8">
+        <ingredient id="23002" count="10"/>
+    <production id="13503" count="1"/>
+  </item>
+
+    <!-- Steam Beatle 30 dias -->
+  <item id="8">
+        <ingredient id="23002" count="10"/>
+    <production id="13504" count="1"/>
+  </item>
+
+    <!-- Steam Beatle 30 dias -->
+  <item id="8">
+        <ingredient id="23002" count="10"/>
+    <production id="16106" count="1"/>
+  </item>
+
+    <!-- Steam Beatle 30 dias -->
+  <item id="8">
+        <ingredient id="23002" count="10"/>
+    <production id="16107" count="1"/>
+  </item>
+
+    
+</list>

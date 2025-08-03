@@ -1,0 +1,93 @@
+/*
+ * This program is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU General Public License as published by the Free Software
+ * Foundation, either version 3 of the License, or (at your option) any later
+ * version.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU General Public License along with
+ * this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+package ai.zones.PlainsOfDion;
+
+import com.l2jserver.gameserver.GeoData;
+import com.l2jserver.gameserver.ai.CtrlIntention;
+import com.l2jserver.gameserver.model.actor.L2Character;
+import com.l2jserver.gameserver.model.actor.L2Npc;
+import com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance;
+import com.l2jserver.gameserver.model.actor.instance.L2PcInstance;
+import com.l2jserver.gameserver.network.clientpackets.Say2;
+import com.l2jserver.gameserver.util.Util;
+
+import ai.engines.L2AttackableAIScript;
+
+
+/**
+ * AI for mobs in Plains of Dion (near Floran Village).
+ * @author Gladicek
+ */
+public final class PlainsOfDion extends L2AttackableAIScript
+{
+	// Npcs
+	private static final int DELU_LIZARDMEN[] =
+	{
+		21104, // Delu Lizardman Supplier
+		21105, // Delu Lizardman Special Agent
+		21107, // Delu Lizardman Commander
+	};
+	
+	// Strings
+	private static final String[] MONSTERS_MSG =
+	{
+		"How dare you interrupt our fight! Hey guys, help!",
+		"Hey! We're having a duel here!",
+		"The duel is over! Attack!",
+		"Foul! Kill the coward!",
+		"How dare you interrupt a sacred duel! You must be taught a lesson!"
+
+	};
+	private static final String[] MONSTERS_ASSIST_MSG =
+	{
+		"Die, you coward!",
+		"Kill the coward!",
+		"What are you looking at?"
+	};
+	
+	private PlainsOfDion(int questId, String name, String descr)
+	{
+		super(questId, name, descr);
+		registerMobs(DELU_LIZARDMEN, QuestEventType.ON_ATTACK);
+	}
+	
+	@Override
+	public String onAttack(L2Npc npc, L2PcInstance player, int damage, boolean isPet)
+	{
+		if (npc.isScriptValue(0))
+		{		
+			{
+				npc.broadcastNpcSay(Say2.ALL, MONSTERS_MSG[getRandom(5)]);
+			}
+			
+			for (L2Character obj : npc.getKnownList().getKnownCharactersInRadius(npc.getFactionRange()))
+			{
+				if (obj.isMonster() && Util.contains(DELU_LIZARDMEN, ((L2MonsterInstance) obj).getId()) && !obj.isAttackingNow() && !obj.isDead() && GeoData.getInstance().canSeeTarget(npc, obj))
+				{
+					final L2MonsterInstance monster = (L2MonsterInstance) obj;
+					npc.getAI().setIntention(CtrlIntention.AI_INTENTION_ATTACK, player);
+					monster.broadcastNpcSay(Say2.ALL, MONSTERS_ASSIST_MSG[getRandom(3)]);
+				}
+			}
+			npc.setScriptValue(1);
+		}
+		return super.onAttack(npc, player, damage, isPet);
+	}
+	
+	public static void main(String[] args)
+	{
+		new PlainsOfDion(-1, PlainsOfDion.class.getSimpleName(), "ai/zones");
+	}
+}

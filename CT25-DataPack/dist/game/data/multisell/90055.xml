@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 Armor -->
+<!-- Created with Lineage II Champion - Multisell Manager -->
+<!-- © 2016 by Caio -->
+
+<list maintainEnchantment="true">
+
+  <!-- Elegia Heavy -->
+  <item id="1">
+  <ingredient id="3483" count="50"/>
+    <production id="16168" count="1"/>
+  </item>
+
+  <!-- Elegia Leather -->
+  <item id="2">
+  <ingredient id="3483" count="50"/>
+    <production id="16169" count="1"/>
+  </item>
+
+  <!-- Elegia Robe -->
+  <item id="3">
+  <ingredient id="3483" count="50"/>
+    <production id="16170" count="1"/>
+  </item>
+
+  <!-- Elegia Shield -->
+  <item id="16">
+  <ingredient id="3483" count="5"/>
+    <production id="15587" count="1"/>
+  </item>
+
+  <!-- Elegia Sigil -->
+  <item id="17">
+  <ingredient id="3483" count="5"/>
+    <production id="15588" count="1"/>
+  </item>
+
+  <!-- Vorpal Heavy -->
+  <item id="1">
+  <ingredient id="3483" count="50"/>
+    <production id="16171" count="1"/>
+  </item>
+
+  <!-- Vorpal Leather -->
+  <item id="2">
+  <ingredient id="3483" count="50"/>
+    <production id="16172" count="1"/>
+  </item>
+
+  <!-- Vorpal Robe -->
+  <item id="3">
+  <ingredient id="3483" count="50"/>
+    <production id="16173" count="1"/>
+  </item>
+
+  <!-- Vorpal Shield -->
+  <item id="16">
+  <ingredient id="3483" count="5"/>
+    <production id="15604" count="1"/>
+  </item>
+
+  <!-- Vorpal Sigil -->
+  <item id="17">
+  <ingredient id="3483" count="5"/>
+    <production id="15605" count="1"/>
+  </item>
+
+</list>

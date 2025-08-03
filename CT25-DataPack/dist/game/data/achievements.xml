@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list>
+	<achievement id="1" name="Champion" description="Get lvl 85 and win 3 Event Glitering Medal" reward="6393,3" minLevel="85"/>   
+	<achievement id="2" name="Hero" description="Get hero status and win Steam Batle (30 Days)" reward="20504,1" mustBeHero="true"/>                                                       
+	<achievement id="3" name="Noble" description="Gain noblesse status and win Maned Horse Moutain (7days)" reward="13022,1" mustBeNoble="true"/>                       
+	<achievement id="4" name="Zaishen" description="Gain a 16 weapon and win 20 Event Glitering Medal" reward="6393,20" minWeaponEnchant="16" />                            
+        <achievement id="5" name="Norn" description="Gain 300 PvPs and win 20 Event Glitering Medal" reward="6393,20" minPvPCount="300"/>                             
+	<achievement id="6" name="Commander" description="Be a clan leader of a level 8 clan and win 250000000 Adena" reward="57,250000000" mustBeClanLeader="true" minClanLevel="8"/>
+	<achievement id="7" name="Darkbringer" description="Gain 150 PKs and win 10 Event Glitering Medal" reward="6393,10" minPkCount="150"/>
+	<achievement id="8" name="Bravery" description="Have 3 subclasses and win 3 Event Glitering Medal" reward="6393,3" minSubclassCount="3"/>
+	<achievement id="9" name="Dealer" description="Bring 300 Crystal Fragment and win 15 Blessed Scroll Wepon" reward="6577,15" itemAmmount="9693,300"/>
+        <achievement id="9" name="Farmer" description="Bring 250 Premium Fish Oil and win 20 Blessed Scroll Armor" reward="6578,20" itemAmmount="6910,250"/>
+	<achievement id="11" name="Conqueror" description="Be clan leader of a clan level 8 that owns a castle and win Maned Horse Moutain (30days)" reward="20030,1" lordOfCastle="true" minClanLevel="8" mustBeClanLeader="true"/>
+	<achievement id="12" name="Codex" description="Have a skill +15 and win 10 Giant Codex " reward="6622,10" minSkillEnchant="15"/>
+	<achievement id="13" name="Famous" description="Be clean leader of a level 8 clan with 100,000 clan reputation points and win 30 Event Glitering Medal" reward="6393,30" minClanLevel="8" crpAmmount="100000" mustBeClanLeader="true"/>
+	<achievement id="14" name="Myth" description="Have hero status for 5 periods and win 100 Event Glitering Medal" reward="6393,100" minHeroCount="5"/>
+	<achievement id="15" name="Wisdom" description="Kill Hallate, Kernon and Golkonda within 24hours and win 25 Event Glitering Medal" reward="6393,25" raidToKill="25220" raidToKill1="25054" raidToKill2="25126"/>
+	<achievement id="16" name="Slayer" description="Kill Baium and be level 80 and win 50 Event Glitering Medal" reward="6393,50" raidToKill="29020" minLevel="80" />
+	<achievement id="17" name="Joker" description="Kill Antharas and be level 80 and win 150 Event Glitering Medal" reward="6393,150" raidToKill="29019" minLevel="80" />
+	<achievement id="18" name="Legend" description="Kill Valakas and be level 80 and win 150 Event Glitering Medal" reward="6393,150" raidToKill="29028" minLevel="80" />
+	<achievement id="19" name="Lightbringer" description="Claim 1,200 Raid points and be lvl 78 and win 20 Event Glitering Medal" reward="6393,20" minRaidPoints="1200" minLevel="78" />
+	<achievement id="20" name="Dominator" description="get 1500 event kills and win 30 Event Glitering Medal" reward="6393,30" eventKills="1500" />
+	<achievement id="21" name="Winner" description="get 250 event and win 30 Event Glitering Medal" reward="6393,30" eventWins="250" />
+	<achievement id="22" name="Eventor" description="play in 250 events and win 30 Event Glitering Medal" reward="6393,30" events="250" />
+	<achievement id="23" name="Vanquisher" description="Complete all personal achievements and win 200 Event Glitering Medal" reward="6393,200" CompleteAchievements="14" />
+	<achievement id="24" name="Tycoon" description="Complete all achievements and win 200 Event Glitering Medal" reward="6393,200" CompleteAchievements="23" />
+</list>

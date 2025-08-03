@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+
+        <item id="23000" type="EtcItem" name="Ticket Champion Craft">
+		<set name="icon" val="ticket1.ticket2.etc_gourd_i01" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="steel" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="False" />
+		<set name="is_dropable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="False" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="23001" type="EtcItem" name="Ticket Champion Troca">
+		<set name="icon" val="ticket10kk1.ticket10kk2.etc_gourd_i01" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="steel" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="False" />
+		<set name="is_dropable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="False" />
+		<set name="is_stackable" val="true" />
+	</item>
+        <item id="23002" type="EtcItem" name="Ticket Champion Donator">
+		<set name="icon" val="ticketdonator1.ticketdonator2.etc_gourd_i01" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="steel" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="True" />
+	</item>
+	<item id="23003" type="EtcItem" name="Ticket Champion Craft">
+		<set name="icon" val="sunlight1.sunlight2.etc_gourd_i01" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="steel" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+                <set name="time" val="43200" />
+	</item>
+	
+</list>

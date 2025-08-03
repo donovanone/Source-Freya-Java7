@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="24051" type="Armor" name="Saint Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />   
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24052" type="Armor" name="Pagan Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24053" type="Armor" name="Heroic Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24054" type="Armor" name="Dragon Fire Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24055" type="Armor" name="Aqua Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24056" type="Armor" name="Evil Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24057" type="Armor" name="Red Dragon Fire Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24058" type="Armor" name="Reptile Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24059" type="Armor" name="Silverstorm Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+	<item id="24060" type="Armor" name="Crystal Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+                <set name="is_oly_restricted" val="true" />
+                  <add order="0x40" stat="fireRes" val="30"/>
+                  <add order="0x40" stat="waterRes" val="30"/>
+                  <add order="0x40" stat="windRes" val="30"/>
+                  <add order="0x40" stat="earthRes" val="30"/>
+                  <add order="0x40" stat="holyRes" val="30"/>
+                  <add order="0x40" stat="darkRes" val="30"/>
+                <set name="time" val="1440" />
+		<for>
+                <add order="0x40" stat="pAtk" val="50" /> <!-- Increases 50 pAtk -->
+                <add order="0x40" stat="pDef" val="50" /> <!-- Increases 50 pDef -->
+                <add order="0x40" stat="mAtk" val="50" /> <!-- Increases 50 mAtk -->
+		</for>
+	</item>
+</list>

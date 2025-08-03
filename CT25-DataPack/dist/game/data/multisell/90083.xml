@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Potions -->
+
+
+<list maintainEnchantment="false">
+ 
+
+   <!-- Mana Potion -->
+  <item id="46">
+    <ingredient id="57" count="30000"/>
+    <production id="728" count="30"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="30000"/>
+    <production id="1539" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="10000000"/>
+    <production id="10410" count="100"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="726"/>
+    <production id="1061" count="1"/>
+  </item>
+
+</list>
