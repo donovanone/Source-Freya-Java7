@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2016 by Caio for L2Ghoul -->
+
+<list maintainEnchantment="true">
+
+  <!-- Vesper Noble Breastplate -->
+  <item id="18">
+    <ingredient id="23002" count="50"/>
+    <production id="13435" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Gaiters -->
+  <item id="19">
+    <ingredient id="23002" count="40"/>
+    <production id="13448" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Gauntlet -->
+  <item id="20">
+    <ingredient id="23002" count="30"/>
+    <production id="13449" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Boots -->
+  <item id="21">
+    <ingredient id="23002" count="30"/>
+    <production id="13450" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Helmet -->
+  <item id="32">
+    <ingredient id="23002" count="30"/>
+    <production id="13140" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Leather Breastplate -->
+  <item id="22">
+    <ingredient id="23002" count="50"/>
+    <production id="13436" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Leather Leggings -->
+  <item id="23">
+    <ingredient id="23002" count="40"/>
+    <production id="13451" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Leather Gloves -->
+  <item id="25">
+    <ingredient id="23002" count="30"/>
+    <production id="13452" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Leather Boots -->
+  <item id="26">
+    <ingredient id="23002" count="30"/>
+    <production id="13453" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Leather Helmet -->
+  <item id="24">
+    <ingredient id="23002" count="30"/>
+    <production id="13141" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Tunic -->
+  <item id="27">
+    <ingredient id="23002" count="50"/>
+    <production id="13437" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Stockings -->
+  <item id="28">
+    <ingredient id="23002" count="40"/>
+    <production id="13454" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Circlet -->
+  <item id="29">
+    <ingredient id="23002" count="30"/>
+    <production id="13142" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Shoes -->
+  <item id="30">
+    <ingredient id="23002" count="30"/>
+    <production id="13456" count="1"/>
+  </item>
+
+  <!-- Vesper Noble Gloves -->
+  <item id="31">
+    <ingredient id="23002" count="30"/>
+    <production id="13455" count="1"/>
+  </item>
+
+  <!-- Vesper Sigil -->
+  <item id="32">
+    <ingredient id="23002" count="20"/>
+    <production id="12813" count="1"/>
+  </item>
+
+  <!-- Vesper Shield -->
+  <item id="6">
+    <ingredient id="23002" count="20"/>
+    <production id="13471" count="1"/>
+  </item>
+
+
+</list>

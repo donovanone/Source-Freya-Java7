@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Misc -->
+<!-- © 2016 by Caio for L2Ghoul -->
+
+<list maintainEnchantment="true">
+
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="10313" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="3501" count="1" />
+	</item>
+	
+  	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="6648" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="3502" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="6649" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="6650" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="10311" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="10312" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="10"/>
+		<production id="10313" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="15"/>
+		<production id="10163" count="1" />
+	</item>
+
+	<!-- Misc -->
+	<item id="10">
+    <ingredient id="6393" count="50"/>
+		<production id="14819" count="1" />
+	</item>
+</list>

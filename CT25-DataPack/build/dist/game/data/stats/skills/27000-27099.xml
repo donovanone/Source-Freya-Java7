@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="55982" levels="3" name="AiO Combat Aura">
+		<table name="#amount"> 1.03 1.04 1.05 </table>
+		<table name="#magicLvl"> 52 64 70 </table>
+		<table name="#mpConsume"> 38 48 52 </table>
+		<table name="#abnormalLvl"> 1 2 3 </table>
+		<set name="hitTime" val="1500" />
+		<set name="magicLvl" val="#magicLvl" />
+		<set name="mpConsume" val="#mpConsume" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="reuseDelay" val="2000" />
+		<set name="skillType" val="BUFF" />
+		<set name="skillRadius" val="1000" />
+		<set name="target" val="TARGET_PARTY" />
+		<for>
+			<effect name="Buff" abnormalTime="1200" val="0" abnormalLvl="#abnormalLvl" abnormalType="knight_aura">
+				<mul order="0x30" stat="pAtk" val="#amount" />
+				<mul order="0x30" stat="pAtkSpd" val="#amount" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="55914" levels="1" name="AiO Song of Purification">
+		<!-- Confirmed CT2.5 -->
+		<set name="aggroPoints" val="679" />
+		<set name="hitTime" val="2500" />
+		<set name="isDance" val="true" />
+		<set name="magicLvl" val="81" />
+		<set name="maxNegated" val="3" />
+		<set name="mpConsume" val="60" />
+		<set name="nextDanceCost" val="30" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="reuseDelay" val="40000" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_PARTY" />
+		<for>
+			<effect name="CancelDebuff" noicon="1" val="0" effectPower="90" effectType="CANCEL_DEBUFF" />
+			<effect name="Buff" abnormalTime="180" val="0" abnormalLvl="1" abnormalType="song_of_purification">
+				<sub order="0x40" stat="debuffVuln" val="30" />
+				<mul order="0x30" stat="gainHp" val="1.3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="55915" levels="1" name="AiO Dance of Berserker">
+		<!-- Confirmed CT2.5 -->
+		<set name="aggroPoints" val="679" />
+		<set name="hitTime" val="2500" />
+		<set name="isDance" val="true" />
+		<set name="magicLvl" val="81" />
+		<set name="mpConsume" val="60" />
+		<set name="nextDanceCost" val="30" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="reuseDelay" val="40000" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<for>
+			<effect name="Buff" abnormalTime="120" val="0" abnormalLvl="1" abnormalType="dance_of_berserker">
+				<mul order="0x30" stat="pAtk" val="1.08" />
+				<mul order="0x30" stat="pAtkSpd" val="1.08" />
+				<mul order="0x30" stat="mAtk" val="1.16" />
+				<mul order="0x30" stat="mAtkSpd" val="1.08" />
+				<add order="0x40" stat="runSpd" val="8" />
+				<mul order="0x30" stat="pDef" val="0.92" />
+				<mul order="0x30" stat="mDef" val="0.84" />
+				<sub order="0x40" stat="rEvas" val="4" />
+			</effect>
+		</for>
+	</skill>
+<skill id="551307" levels="3" name="AiO Prayer" enchantGroup1="1" enchantGroup2="1">
+		<table name="#mpInitialConsume"> 49 52 55 </table>
+		<table name="#mpConsume"> 195 207 217 </table>
+		<table name="#gainHp"> 1.08 1.1 1.12 </table>
+		<table name="#abnormalLvl"> 1 2 3 </table>
+		<table name="#aggro"> 611 635 655 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume" />
+		<set name="mpConsume" val="#mpConsume" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="reuseDelay" val="5000" />
+		<set name="hitTime" val="4000" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="aggroPoints" val="#aggro" />
+		<for>
+			<effect name="Buff" abnormalTime="1200" val="0" abnormalLvl="#abnormalLvl" abnormalType="heal_effect_up">
+				<mul order="0x30" stat="gainHp" val="#gainHp" />
+			</effect>
+		</for>
+</skill>
+<skill id="55834" levels="1" name="AiO Blood Pact">
+		<set name="magicLvl" val="55" />
+		<set name="mpConsume" val="50" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="hitTime" val="1500" />
+		<set name="reuseDelay" val="75000" />
+		<set name="skillRadius" val="1000" />
+		<for>
+			<effect name="Buff" abnormalTime="120" val="0" abnormalLvl="1" abnormalType="blood_constract">
+				<mul order="0x30" stat="maxHp" val="1.1" />
+				<add order="0x40" stat="regHp" val="10" />
+			</effect>
+		</for>
+	</skill>
+<skill id="556429" levels="1" name="Aio Cozy Mucus">
+		<!-- Rainbow Frog -->
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="castRange" val="2000" />
+		<set name="hitTime" val="500" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Buff" abnormalTime="600" val="0" abnormalLvl="1" abnormalType="signal_a">
+				<mul order="0x30" stat="pAtk" val="1.15">
+					<using kind="Bow,Crossbow" />
+				</mul>
+				<mul order="0x30" stat="regHp" val="5" />
+			</effect>
+		</for>
+	</skill>
+</list>

@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2016 by Caio for L2Ghoul -->
+
+<list maintainEnchantment="true">
+
+  <!-- Moirai Helmet -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15606" count="1"/>
+  </item>
+
+  <!-- Moirai Breastplate -->
+  <item id="23">
+    <ingredient id="23002" count="25"/>
+    <production id="15609" count="1"/>
+  </item>
+
+  <!-- Moirai Gauntlet -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15615" count="1"/>
+  </item>
+
+  <!-- Moirai Gaiter -->
+  <item id="23">
+    <ingredient id="23002" count="25"/>
+    <production id="15612" count="1"/>
+  </item>
+
+  <!-- Moirai Boots -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15618" count="1"/>
+  </item>
+
+  <!-- Moirai Leather Helmet -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15607" count="1"/>
+  </item>
+
+  <!-- Moirai Leather Breastplate -->
+  <item id="23">
+    <ingredient id="23002" count="25"/>
+    <production id="15610" count="1"/>
+  </item>
+
+  <!-- Moirai Leather Gloves -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15616" count="1"/>
+  </item>
+
+  <!-- Moirai Leather Legging -->
+  <item id="23">
+    <ingredient id="23002" count="25"/>
+    <production id="15613" count="1"/>
+  </item>
+
+  <!-- Moirai Leather Boots -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15619" count="1"/>
+  </item>
+
+  <!-- Moirai Circlet -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15608" count="1"/>
+  </item>
+
+  <!-- Moirai Tunic -->
+  <item id="23">
+    <ingredient id="23002" count="25"/>
+    <production id="15611" count="1"/>
+  </item>
+
+  <!-- Moirai Gloves -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15617" count="1"/>
+  </item>
+
+  <!-- Moirai Stockings -->
+  <item id="23">
+    <ingredient id="23002" count="25"/>
+    <production id="15614" count="1"/>
+  </item>
+
+  <!-- Moirai Shoes -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15620" count="1"/>
+  </item>
+
+  <!-- Moirai Shield -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15621" count="1"/>
+  </item>
+
+  <!-- Moirai Sigil -->
+  <item id="23">
+    <ingredient id="23002" count="15"/>
+    <production id="15622" count="1"/>
+  </item>
+
+</list>

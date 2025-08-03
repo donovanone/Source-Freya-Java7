@@ -1,0 +1,82 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Novidades-->
+<!-- Created with Lineage II Explorer - Multisell Manager -->
+<!-- © 2016 by Caio for L2Ghoul-->
+
+<list maintainEnchantment="true">
+
+
+  <!-- Giant's Codex -->
+  <item id="1">
+	<ingredient id="23002" count="30" />
+	<production id="10295" count="1" />
+  </item>
+
+  <!-- Giant's Secret Codes of Mastery -->
+  <item id="2">
+	<ingredient id="23002" count="30" />
+	<production id="10296" count="1" />
+  </item>
+
+<!-- Giant's Codex -->
+  <item id="3">
+	<ingredient id="23002" count="30" />
+	<production id="10297" count="1" />
+  </item>
+
+  <!-- Giant's Secret Codes of Mastery -->
+  <item id="4">
+	<ingredient id="23002" count="30" />
+	<production id="10298" count="1" />
+  </item>
+
+<!-- Giant's Codex -->
+  <item id="5">
+	<ingredient id="23002" count="30" />
+	<production id="10299" count="1" />
+  </item>
+
+  <!-- Giant's Secret Codes of Mastery -->
+  <item id="6">
+	<ingredient id="23002" count="30" />
+	<production id="10300" count="1" />
+  </item>
+
+<!-- Giant's Codex -->
+  <item id="7">
+	<ingredient id="23002" count="30" />
+	<production id="10301" count="1" />
+  </item>
+
+  <!-- Giant's Secret Codes of Mastery -->
+  <item id="8">
+	<ingredient id="23002" count="30" />
+	<production id="10302" count="1" />
+  </item>
+
+<!-- Giant's Codex -->
+  <item id="9">
+	<ingredient id="23002" count="30" />
+	<production id="10303" count="1" />
+  </item>
+
+  <!-- Giant's Secret Codes of Mastery -->
+  <item id="10">
+	<ingredient id="23002" count="30" />
+	<production id="10304" count="1" />
+  </item>
+
+<!-- Giant's Codex -->
+  <item id="11">
+	<ingredient id="323002" count="30" />
+	<production id="10305" count="1" />
+  </item>
+
+  <!-- Giant's Secret Codes of Mastery -->
+  <item id="12">
+	<ingredient id="23002" count="30" />
+	<production id="10306" count="1" />
+  </item>
+
+ </list>

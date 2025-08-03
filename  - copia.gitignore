@@ -1,0 +1,38 @@
+# Eclipse project files
+.metadata/
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA (por si usás más adelante)
+.idea/
+*.iml
+
+# Java build output
+bin/
+build/
+target/
+out/
+
+# Maven & Gradle
+.mvn/
+.gradle/
+*.jar
+*.war
+*.ear
+
+# Logs, tmp, etc.
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Git
+.gitignore
+
+.svn/

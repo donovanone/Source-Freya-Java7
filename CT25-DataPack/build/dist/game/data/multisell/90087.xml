@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="multisell.xsd">
+
+	<item>
+		<!-- Foundation Dynasty Ancient Sword -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16056" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Knife -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16057" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Rapier -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16058" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Mace -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16059" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Bagh-Nakh -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16060" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Bow -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16061" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Blade -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16062" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Sword -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16063" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Staff -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16064" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Cudgel -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16065" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Crusher -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16066" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Crossbow -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16067" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Phantom -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16068" />
+	</item>
+	<item>
+		<!-- Foundation Dynasty Halberd -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16069" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Disperser -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16070" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Sawsword -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16071" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Shooter -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16072" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Stinger -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16073" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Spirit -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16074" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Spitter -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16075" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Wingblade -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16076" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Trident -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16077" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Hammer -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16078" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Hand -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16079" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Heavy Arms -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16080" />
+	</item>
+	<item>
+		<!-- Foundation Icarus Hall -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16081" />
+	</item>
+	<item>
+		<!-- Vesper Cutter of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16082" />
+	</item>
+	<item>
+		<!-- Vesper Slasher of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16083" />
+	</item>
+	<item>
+		<!-- Vesper Buster of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16084" />
+	</item>
+	<item>
+		<!-- Vesper Shaper of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16085" />
+	</item>
+	<item>
+		<!-- Vesper Fighter of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16086" />
+	</item>
+	<item>
+		<!-- Vesper Stormer of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16087" />
+	</item>
+	<item>
+		<!-- Vesper Avenger of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16088" />
+	</item>
+	<item>
+		<!-- Vesper Retributer of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16089" />
+	</item>
+	<item>
+		<!-- Vesper Caster of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16090" />
+	</item>
+	<item>
+		<!-- Vesper Singer of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16091" />
+	</item>
+	<item>
+		<!-- Vesper Thrower of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16092" />
+	</item>
+	<item>
+		<!-- Vesper Pincer of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16093" />
+	</item>
+	<item>
+		<!-- Vesper Schutze of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16094" />
+	</item>
+	<item>
+		<!-- Vesper Nagan of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16095" />
+	</item>
+
+	<item>
+		<!-- Vesper Retributer of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16096" />
+	</item>
+	<item>
+		<!-- Vesper Caster of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16097" />
+	</item>
+
+	<item>
+		<!-- Vesper Retributer of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16148" />
+	</item>
+	<item>
+		<!-- Vesper Caster of Chaos -->
+		<ingredient count="100" id="23002" />
+		<production count="1" id="16150" />
+	</item>
+	
+</list>

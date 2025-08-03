@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Johnny - Majenta-Moon  -->
+<list>
+	<config showall="true" notax="true" ignoreprice="true" keepenchanted="false" />
+	<item>
+		<production id="1467" count="1000"/>
+		<ingredient id="57" count="395000"/>
+	</item>
+	<item>
+		<production id="1466" count="1000"/>
+		<ingredient id="57" count="280000"/>
+	</item>
+	<item>
+		<production id="1465" count="1000"/>
+		<ingredient id="57" count="140000"/>
+	</item>
+	<item>
+		<production id="1464" count="1000"/>
+		<ingredient id="57" count="65000"/>
+	</item>
+	
+		<item>
+		<production id="1463" count="1000"/>
+		<ingredient id="57" count="15000"/>
+	</item>
+	<item>
+		<production id="1835" count="1000"/>
+		<ingredient id="57" count="9000"/>
+	</item>
+	
+	<item>
+		<production id="3952" count="1000"/>
+		<ingredient id="57" count="1100000"/>
+	</item>
+	<item>
+		<production id="3951" count="1000"/>
+		<ingredient id="57" count="607000"/>
+	</item>
+	
+		<item>
+		<production id="3950" count="1000"/>
+		<ingredient id="57" count="305000"/>
+	</item>
+	<item>
+		<production id="3949" count="1000"/>
+		<ingredient id="57" count="131000"/>
+	</item>
+	<item>
+		<production id="3948" count="1000"/>
+		<ingredient id="57" count="48000"/>
+
+	</item>
+	<item>
+		<production id="3947" count="1000"/>
+		<ingredient id="57" count="35000"/>
+
+	</item>
+		<item>
+		<production id="6535" count="10"/>
+		<ingredient id="57" count="30"/>
+	</item>
+	<item>
+		<production id="6536" count="10"/>
+		<ingredient id="57" count="60"/>
+	</item>
+	<item>
+		<production id="6537" count="10"/>
+		<ingredient id="57" count="90"/>
+	</item>
+	<item>
+		<production id="6538" count="10"/>
+		<ingredient id="57" count="500"/>
+	</item>
+	<item>
+		<production id="6539" count="10"/>
+		<ingredient id="57" count="1000"/>
+	</item>
+	<item>
+		<production id="6540" count="10"/>
+		<ingredient id="57" count="2000"/>
+	</item>
+
+	<item>
+		<production id="6647" count="1000"/>
+		<ingredient id="57" count="125000"/>
+	</item>
+
+	<item>
+		<production id="6645" count="1000"/>
+		<ingredient id="57" count="25000"/>
+	</item>
+	
+	
+		
+</list>

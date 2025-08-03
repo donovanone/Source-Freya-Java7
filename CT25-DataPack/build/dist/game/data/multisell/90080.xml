@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Seven Signs - Blacksmith of Mammon - Unseal S84-Grade Armor -->
+<list maintainEnchantment="true">
+
+	<!-- Masterwork Vesper Helmet -->
+	<item id="18">
+		<production id="16306" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Leather Helmet -->
+	<item id="19">
+		<production id="16307" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Circlet -->
+	<item id="20">
+		<production id="16308" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Cuirass -->
+	<item id="21">
+		<production id="16309" count="1" />
+		<ingredient id="23002" count="50" />
+	</item>
+	<!-- Masterwork Vesper Hauberk -->
+	<item id="22">
+		<production id="16310" count="1" />
+		<ingredient id="23002" count="50" />
+	</item>
+	<!-- Masterwork Vesper Tunic -->
+	<item id="23">
+		<production id="16311" count="1" />
+		<ingredient id="23002" count="50" />
+	</item>
+	<!-- Masterwork Vesper Gaiter -->
+	<item id="24">
+		<production id="16312" count="1" />
+		<ingredient id="23002" count="40" />
+	</item>
+	<!-- Masterwork Vesper Leather Legging -->
+	<item id="25">
+		<production id="16313" count="1" />
+		<ingredient id="23002" count="40" />
+	</item>
+	<!-- Masterwork Vesper Hose -->
+	<item id="26">
+		<production id="16314" count="1" />
+		<ingredient id="23002" count="40" />
+	</item>
+	<!-- Masterwork Vesper Gauntlet -->
+	<item id="27">
+		<production id="16315" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Leather Gloves -->
+	<item id="28">
+		<production id="16316" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Gloves -->
+	<item id="29">
+		<production id="16317" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Boots -->
+	<item id="30">
+		<production id="16318" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Leather Boots -->
+	<item id="31">
+		<production id="16319" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Shoes -->
+	<item id="32">
+		<production id="16320" count="1" />
+		<ingredient id="23002" count="30" />
+	</item>
+	<!-- Masterwork Vesper Shield -->
+	<item id="33">
+		<production id="16321" count="1" />
+		<ingredient id="23002" count="20" />
+	</item>
+	<!-- Masterwork Vesper Sigil -->
+	<item id="34">
+		<production id="16322" count="1" />
+		<ingredient id="23002" count="20" />
+	</item>
+	
+</list>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="21712" type="Armor" name="Blessed Earring of Zaken">
+		<!-- Description: MP+37, Resistance to Bleed +30%, Bleed attack rate +30%, heal amount +15%, vampiric rage effect, Resistance to Shock/Mental attacks +30%, Shock/Mental attack rate +30%, and Resistance to Dark +15. Only one effect is applied even when the same two earrings are worn. If it is equipped together with a standard Earring of Zaken, only the effect of Blessed Earring of Zaken will be applied. -->
+		<set name="icon" val="icon.accessory_earring_of_zaken_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="547" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="silver" />
+		<set name="weight" val="150" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3559-2" />
+		<set name="price" val="11394000" />
+		<for>
+			<add order="0x10" stat="mDef" val="94" />
+			<add order="0x40" stat="maxMp" val="37" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="21713" type="EtcItem" name="Sealed Cloak of Zaken">
+		<!-- Description: When the seal is released, P. Def. and attribute resistance increase, and special skills can be used. It can be equipped only after releasing the seal through the weavers Olf Kanore in Aden or Olf Adams in Rune. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="icon.sealed_vesper_cloack_i01" />
+		<set name="material" val="cloth" />
+		<set name="price" val="29674485" />
+		<set name="weight" val="220" />
+	</item>
+	<item id="21714" type="EtcItem" name="Sealed Cloak of Freya">
+		<!-- Description: When the seal is released, P. Def. and attribute resistance increase, and special skills can be used. It can be equipped only after releasing the seal through the weavers Olf Kanore in Aden or Olf Adams in Rune. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="icon.sealed_vesper_cloack_i01" />
+		<set name="material" val="cloth" />
+		<set name="price" val="32971650" />
+		<set name="weight" val="220" />
+	</item>
+	<item id="21715" type="EtcItem" name="Sealed Cloak of Frintezza">
+		<!-- Description: When the seal is released, P. Def. and attribute resistance increase, and special skills can be used. It can be equipped only after releasing the seal through the weavers Olf Kanore in Aden or Olf Adams in Rune. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="icon.sealed_vesper_cloack_i01" />
+		<set name="material" val="cloth" />
+		<set name="price" val="29674485" />
+		<set name="weight" val="220" />
+	</item>
+	<item id="21716" type="Armor" name="Cloak of Zaken">
+		<!-- Description: Cloak that makes you feel Zaken's sorrow. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="s80" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="cloth" />
+		<set name="price" val="29674485" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="1" />
+		</cond>
+		<for>
+			<add order="0x40" stat="darkRes" val="15" />
+			<add order="0x40" stat="earthRes" val="5" />
+			<add order="0x40" stat="fireRes" val="5" />
+			<add order="0x40" stat="holyRes" val="5" />
+			<add order="0x40" stat="waterRes" val="15" />
+			<add order="0x40" stat="windRes" val="15" />
+			<add order="0x10" stat="pDef" val="20" />
+		</for>
+	</item>
+	<item id="21717" type="Armor" name="Cloak of Freya">
+		<!-- Description: Cloak that makes you feel Freya's chill. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="s84" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="cloth" />
+		<set name="price" val="32971650" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="1" />
+		</cond>
+		<for>
+			<add order="0x40" stat="darkRes" val="10" />
+			<add order="0x40" stat="earthRes" val="10" />
+			<add order="0x40" stat="fireRes" val="10" />
+			<add order="0x40" stat="holyRes" val="20" />
+			<add order="0x40" stat="waterRes" val="20" />
+			<add order="0x40" stat="windRes" val="20" />
+			<add order="0x10" stat="pDef" val="30" />
+		</for>
+	</item>
+	<item id="21718" type="Armor" name="Cloak of Frintezza">
+		<!-- Description: Cloak that plays Frintezza's melody over and over in your head. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="s80" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="cloth" />
+		<set name="price" val="29674485" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="1" />
+		</cond>
+		<for>
+			<add order="0x40" stat="darkRes" val="15" />
+			<add order="0x40" stat="earthRes" val="15" />
+			<add order="0x40" stat="fireRes" val="15" />
+			<add order="0x40" stat="holyRes" val="5" />
+			<add order="0x40" stat="waterRes" val="5" />
+			<add order="0x40" stat="windRes" val="5" />
+			<add order="0x10" stat="pDef" val="20" />
+		</for>
+	</item>
+	<item id="21719" type="Armor" name="Soul Cloak of Zaken">
+		<!-- Description: Cloak embroidered with Zaken's soul. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, refining, exchange, and drop are impossible. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="s80" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="cloth" />
+		<set name="weight" val="110" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<cond msgId="2453">
+			<player cloakStatus="1" />
+		</cond>
+		<for>
+			<add order="0x40" stat="darkRes" val="10" />
+			<add order="0x40" stat="earthRes" val="5" />
+			<add order="0x40" stat="fireRes" val="5" />
+			<add order="0x40" stat="holyRes" val="5" />
+			<add order="0x40" stat="waterRes" val="10" />
+			<add order="0x40" stat="windRes" val="10" />
+			<add order="0x10" stat="pDef" val="40" />
+		</for>
+	</item>
+	<item id="21720" type="Armor" name="Soul Cloak of Freya">
+		<!-- Description: Cloak embroidered with Freya's soul. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, refining, exchange, and drop are impossible. -->
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="s84" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="cloth" />
+		<set name="weight" val="110" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<cond msgId="2453">
+			<player cloakStatus="1" />
+		</cond>
+		<for>
+			<add order="0x40" stat="darkRes" val="5" />
+			<add order="0x40" stat="earthRes" val="5" />
+			<add order="0x40" stat="fireRes" val="5" />
+			<add order="0x40" stat="holyRes" val="15" />
+			<add order="0x40" stat="waterRes" val="15" />
+			<add order="0x40" stat="windRes" val="15" />
+			<add order="0x10" stat="pDef" val="60" />
+		</for>
+	</item>
+	<item id="21721" type="Armor" name="Soul Cloak of Frintezza">
+		<!-- Description: Cloak embroidered with Frintezza's soul. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, refining, exchange, and drop are impossible. -->
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="s80" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="cloth" />
+		<set name="weight" val="110" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<cond msgId="2453">
+			<player cloakStatus="1" />
+		</cond>
+		<for>
+			<add order="0x40" stat="darkRes" val="10" />
+			<add order="0x40" stat="earthRes" val="10" />
+			<add order="0x40" stat="fireRes" val="10" />
+			<add order="0x40" stat="holyRes" val="5" />
+			<add order="0x40" stat="waterRes" val="5" />
+			<add order="0x40" stat="windRes" val="5" />
+			<add order="0x10" stat="pDef" val="40" />
+		</for>
+	</item>
+</list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Datapack_data&apos;&#x0D;&#x0A;- Original project: &apos;Datapack_data&apos;&#x0D;&#x0A;- Original element: &apos;Datapack_data/dist/game/data/scripts/com.l2jserver.gameserver.scripts.handlers.voicedcommandhandlers&apos;" description="Delete element" element1="/dist\/game\/data\/scripts&lt;com.l2jserver.gameserver.scripts.handlers.voicedcommandhandlers" element2="/dist\/game\/data\/scripts&lt;com.l2jserver.gameserver.scripts.handlers" element3="/dist\/game\/data\/scripts&lt;com.l2jserver.gameserver.scripts" element4="/dist\/game\/data\/scripts&lt;com.l2jserver.gameserver" element5="/dist\/game\/data\/scripts&lt;com.l2jserver" element6="/dist\/game\/data\/scripts&lt;com" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1425334163626" subPackages="false" version="1.0"/>
+</session>

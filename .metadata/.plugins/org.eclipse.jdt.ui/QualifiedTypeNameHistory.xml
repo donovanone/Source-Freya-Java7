@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.network.serverpackets.NpcHtmlMessage"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="org.python.parser.ast.List"/>
+<fullyQualifiedTypeName name="VGuard.VgConfig"/>
+<fullyQualifiedTypeName name="VGuard.network.GuardManager"/>
+<fullyQualifiedTypeName name="VGuard.VGuard"/>
+<fullyQualifiedTypeName name="com.l2jserver.util.Rnd"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.enums.QuestSound"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.instancemanager.votereward.VoteManager"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.util.Broadcast"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.dv.util.Base64"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.network.clientpackets.Say2"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.network.serverpackets.CreatureSay"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.datatables.MapRegionTable"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.Item"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.model.actor.L2Character"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.phoenix.EventsInterface"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.phoenix.Main"/>
+<fullyQualifiedTypeName name="com.l2jserver.gameserver.skills.funcs.LambdaStats.StatsType"/>
+<fullyQualifiedTypeName name="sun.net.www.protocol.http.HttpURLConnection"/>
+<fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
+</qualifiedTypeNameHistroy>

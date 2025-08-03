@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Dyes -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item id="74">
+		<ingredient id="6360" count="1" />
+		<production id="5575" count="10" />
+	</item>
+
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item id="74">
+		<ingredient id="6361" count="1" />
+		<production id="5575" count="20" />
+	</item>
+
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item id="74">
+		<ingredient id="6362" count="1" />
+		<production id="5575" count="30" />
+	</item>
+
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item id="74">
+		<ingredient id="6360" count="100" />
+		<production id="5575" count="1000" />
+	</item>
+
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item id="74">
+		<ingredient id="6361" count="100" />
+		<production id="5575" count="2000" />
+	</item>
+
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item id="74">
+		<ingredient id="6362" count="100" />
+		<production id="5575" count="3000" />
+	</item>
+</list>

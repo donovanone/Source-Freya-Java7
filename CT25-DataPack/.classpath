@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="dist/game/data/scripts"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="src" path="/L2JServer"/>
+	<classpathentry exported="true" kind="lib" path="/L2JServer/lib/javolution-5.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/L2JServer/lib/worldwind.jar"/>
+	<classpathentry exported="true" kind="lib" path="/L2JServer/lib/trove-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

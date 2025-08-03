@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+<!-- © 2016 by CAIO for L2Ghoul-->
+
+<list maintainEnchantment="true">
+
+  <!-- Codex -->
+  <item id="2">
+    <ingredient id="23002" count="1"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Codex -->
+  <item id="2">
+    <ingredient id="23002" count="10"/>
+    <production id="6622" count="10"/>
+  </item>
+
+  <!-- Codex mastery -->
+  <item id="4">
+    <ingredient id="23002" count="2"/>
+    <production id="9627" count="1"/>
+  </item>
+
+  <!-- Codex mastery -->
+  <item id="4">
+    <ingredient id="23002" count="10"/>
+    <production id="9627" count="5"/>
+  </item>
+
+  <!-- Codex discipline -->
+  <item id="4">
+    <ingredient id="23002" count="1"/>
+    <production id="9625" count="1"/>
+  </item>
+
+    <!-- Codex Oblivion -->
+  <item id="2">
+    <ingredient id="23002" count="1"/>
+    <production id="9626" count="1"/>
+  </item>
+
+
+  
+</list>
